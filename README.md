@@ -952,8 +952,6 @@ Because the agent can read a code repository and download logs, the deployment m
 
 ## 14. Technology Overview
 
-Only generic, publicly known technologies are listed.
-
 | Layer | Technology |
 
 | --- | --- |
